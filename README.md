@@ -157,6 +157,13 @@ Example Expected Output:
 ```
 
 
+<img width="1887" height="1011" alt="Image" src="https://github.com/user-attachments/assets/7c8c30c3-75c1-40f7-9017-77b09f917943" />
+
+<img width="1915" height="1136" alt="Image" src="https://github.com/user-attachments/assets/f2871543-e95d-4f60-a032-522d4967e873" />
+
+<img width="1901" height="1026" alt="Image" src="https://github.com/user-attachments/assets/2a6bde49-7a55-4576-a642-dad97ec59ca2" />
+
+
 
 Author
 Utsav Modi
