@@ -1,6 +1,10 @@
 ## lexi.sg-rag-backend-test
 This repository provides a FastAPI-based backend service implementing a Retrieval-Augmented Generation (RAG) system for legal queries. It processes legal documents, builds a searchable vector index, and retrieves relevant citations to answer natural language questions.
 
+## Watch the demo video here:
+```
+[https://www.loom.com/share/YOUR_LOOM_SHARE_LINK](https://www.loom.com/share/YOUR_LOOM_SHARE_LINK)
+```
 ## Objective
 The primary objective is to build a backend service that accepts a natural language legal query and returns a generated answer along with a list of relevant citations from original documents.
 
